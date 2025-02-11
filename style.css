@@ -1,5 +1,20 @@
-header {
-    padding-left: 500px;
-    padding-right: 300px;
-
+h1 {
+   text-align: center;
+   margin-top: 0p;
+   
+}
+image {
+    width: 150px;
+    height: 150px;
+    float: left;
+    
+}
+header{
+    margin-top: 20px;
+}
+.hey{
+    
+        image resize: ;: 10px;
+        height: 10px;
+        float: left;
 }
